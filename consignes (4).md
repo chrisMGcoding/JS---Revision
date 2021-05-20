@@ -1,0 +1,2 @@
+# Exercice 5
+- Créer un programme qui prend deux paramètres. Un nom et un résultat. Si le résultat est supérieur à 90, vous placé le personnage dans un array nommé "Réussite". Si le résultat est égal ou supérieur à 50, vous les placer dans un array nommé "Remediation". Sinon vous le placer dans un tableau nommé "Echec". Pour les étudiants qui font partie du groupe "Remediation", vous faites en sortes qu'ils viennent 7jours pour une remediation (boucle) et le prouver avec une console.log "personnage s'est présenter à l'école".
